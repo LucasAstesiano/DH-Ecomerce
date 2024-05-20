@@ -13,6 +13,10 @@ export const CardProduct:FC<Props> = ({product}) => {
 
 const {dispatch}=useCartContext()
 
+if (product.id === undefined) {
+    throw new Error('Product id is undefined');
+} 
+
 const item: CardProductI = {
     id: product.id,
     name:product.name,
