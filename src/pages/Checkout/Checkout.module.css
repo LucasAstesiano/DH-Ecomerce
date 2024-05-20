@@ -20,3 +20,19 @@
   flex-direction: column;
   justify-content: space-between;
 }
+.buyButton{
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.buyButton:hover{
+  cursor: pointer;
+  background-color: #EDB00F;
+  transform: scale(1.01);
+}
+@media (max-width: 745px) {
+  .grid{
+    display: flex;
+    flex-direction: column;
+  }
+}
