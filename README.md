@@ -1,34 +1,4 @@
-# Ecommerce-DH React.js Template
-
-Este es el ***template base*** para comenzar el proyecto, ya tiene los estilos y dependencias necesarias.
-
-
-
-El objetivo de este proyecto es afianzar los conocimientos del curso React + Redux con TypeScript, específicamente en el contexto de React.js y sus herramientas relacionadas. A lo largo de las clases, se abordan varios módulos, cada uno enfocado en un aspecto clave del desarrollo web con React.
-
-## Demostración
-
-![Demostración](https://github.com/humbertodrc/api-vercel-ejemplo/assets/63797901/0e0ade00-d5b9-438d-8d17-318e1b7838a7)
-
-## Tabla de Contenidos
-
-- Intro al Proyecto
-- React Router
-- JSON Server
-- Uso De Hooks useState y useEffect
-- Fetching Data
-- Uso de Hooks useContext y useReducer
-- TypeScript
-- Redux
-- Dispatching Actions
-- Integración de otras librerías
-- Sonner
-- React Credit Cards 2
-- React Query
-- React Query Devtools
-- React Query Pagination
-- React Query Mutations
-
+# Ecommerce-DH React.js
 
 ## Tecnologías
 
