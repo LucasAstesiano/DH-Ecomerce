@@ -1,4 +1,5 @@
 # Ecommerce-DH React.js
+Tienda de Figuras en la cual se puede navegar entre una amplia cantidad de opciones y agregar productos al carrito,Ademas permite gestionar el carrito puediendo agregar o eliminar unidades de un producto.Luego de confirmar los productos nos dirige a una sección de pago en la cual tenemos un formulario junto con una tarjeta animada en la cual se visualizan los datos ingresados para una mejor experiencia de usuario.
 
 ## Tecnologías
 
